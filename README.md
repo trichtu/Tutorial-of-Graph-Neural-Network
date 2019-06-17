@@ -9,6 +9,7 @@ paper: https://arxiv.org/pdf/1810.05997.pdf
 
 ### Deeper Insights into Graph convolutional networks for semi-supervised Learning
 paper: https://arxiv.org/pdf/1801.07606.pdf
+
 spotlight: this paper proves that graph convolution networks(GCN) is a Laplacian smoothing in nature. And provide a co-training and self-training method to overcome GCN's limitations.  
 
 
