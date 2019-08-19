@@ -2,7 +2,7 @@
 list reading papers about Graph neural network
 
 
-## Graph convolution network
+## 1.Graph convolution network
 
 ### Semi-supervised Classification with Graph Convolutional Networks  
 GCN  https://arxiv.org/abs/1609.02907
