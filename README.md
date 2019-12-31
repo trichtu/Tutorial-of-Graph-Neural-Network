@@ -46,4 +46,9 @@ IJCAI-19 August 10-16 2019, Macao, China
 github: https://github.com/CRIPAC-DIG/H-GCN
 spotlight: adopt the U-net structure in graph convolution networks for node classification 
 
+## Review
+### Graph Neural Networks: A Review of Methods and Applications
+https://arxiv.org/pdf/1812.08434v1.pdf
 
+### Deep Learning on Graphs: A Survey
+https://arxiv.org/abs/1812.04202
