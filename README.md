@@ -52,3 +52,9 @@ https://arxiv.org/pdf/1812.08434v1.pdf
 
 ### Deep Learning on Graphs: A Survey
 https://arxiv.org/abs/1812.04202
+
+
+## Module
+### PyTorch Geometry：a grometry deep learning extensions based on PyTorch
+github: https://github.com/rusty1s/pytorch_geometric
+doc: https://pytorch-geometric.readthedocs.io/en/latest/
