@@ -42,7 +42,7 @@ Graph U-Net https://openreview.net/pdf?id=HJePRoAct7
 
 ### Hierarchical graph convolutional networks for semi-supervised node classification
 IJCAI-19 August 10-16 2019, Macao, China 
-[presubmit_version]: https://www.groundai.com/project/hierarchical-graph-convolutional-networks-for-semi-supervised-node-classification8251/4
+paper: https://www.groundai.com/project/hierarchical-graph-convolutional-networks-for-semi-supervised-node-classification8251/4
 github: https://github.com/CRIPAC-DIG/H-GCN
 spotlight: adopt the U-net structure in graph convolution networks for node classification 
 
